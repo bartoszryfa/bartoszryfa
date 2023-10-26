@@ -1,7 +1,7 @@
 # Hi, I'm Bartosz!
 
 I'm a student at **Warsaw University of Technology**. I am interested in entrepreneurship and technology, and I would like to continue developing my skills in these areas. 
-- I’m currently learning 💡 things as: web-development (backend mostly)
+- I’m currently learning backend (mostly)
 - I’m learning: *Java ♨️, Spring Boot 🚀, REST API 🌐, MongoDB & MySQL 🔍, Docker 🐳, Linux 🐧*
 - 📩 How to reach me: ryfabartosz@protonmail.com
 - I'm kind of 🍎 ecosystem fan
