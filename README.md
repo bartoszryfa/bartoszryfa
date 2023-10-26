@@ -15,7 +15,7 @@ I'm a student at **Warsaw University of Technology**. I am interested in entrepr
  - [x] Team and Time Management
  - [x] Logical and Analytical Thinking
 
-## My learning through practice
+## My learning through practice:
 
 ```mermaid
 graph TD
